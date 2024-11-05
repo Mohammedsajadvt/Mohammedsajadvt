@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sajad Vt</h1>
 <h3 align="center">A passionate flutter developer</h3>
 
-- 🌱 I’m currently learning **Mobile Application Development**
-
+- 🌱 I’m currently learning **Flutter - Nodejs**
+- 🌱 I’m currently working **Flutter Developer**
 - 📫 How to reach me **mohammedsajadvt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
