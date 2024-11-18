@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sajad Vt</h1>
-<h3 align="center">A passionate mobile app developer</h3>
+<h3 align="center">A passionate software developer</h3>
 
-- 🧑🏻‍💻 I’m currently learning **Flutter - Native Android**
 - 🖥️ I’m currently working **Flutter Developer**
 - 📫 How to reach me **mohammedsajadvt@gmail.com**
 
