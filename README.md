@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://iconscout.com/lottie-animation/flutter-11068778](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU5VNR4RJmgrmA8x29QoTAkpbSg4nxhYfxQw&s)" align="center" style="width: 100%" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU5VNR4RJmgrmA8x29QoTAkpbSg4nxhYfxQw&s" align="center" style="width: 100%" />
 </div>  
   
 
