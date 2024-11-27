@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi I'm Mohammed Sajad VT , flutter developer </div>  
+### <div align="center">Hi I'm Mohammed Sajad VT</div>  
   
 
 - 🔭 I’m currently working as a Flutter Developer  
