@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mohammed-sajad-vt-flutter-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-sajad-vt-flutter-developer" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mohammed-sajad-vt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohammed-sajad-vt" height="30" width="40" /></a>
-<a href="https://fb.com/mohammedsajadvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammedsajadvt" height="30" width="40" /></a>
+<a href="https://fb.com/mohammedsajadvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohammed Sajad VT" height="30" width="40" /></a>
 <a href="https://instagram.com/mohammed.sajad.vt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammed.sajad.vt" height="30" width="40" /></a>
 </p>
 
