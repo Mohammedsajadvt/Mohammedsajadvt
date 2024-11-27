@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU5VNR4RJmgrmA8x29QoTAkpbSg4nxhYfxQw&s" align="center" style="width: 100%" />
+<img src="https://www.solutelabs.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F0mnqm898%2Fproduction%2F3b5b782cda0a56aae30b394fa8e85e0d66fd1587-2240x1260.png&w=3840&q=75" align="center" style="width: 100%" />
 </div>  
   
 
