@@ -17,8 +17,8 @@
   <tr>
     <td valign="top" width="50%">
       <div align="center">
-        <a href="https://www.w3.org/html/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5" height="50" /></a>
-        <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e41e3cefb7d3ddc8a5c96eec59f68b6c600daf14b3e73ebd8216497b7b5bfc8b.svg" alt="Dart" height="50" /></a>
+        <a href="https://www.w3.org/html/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/html-5.svg" alt="HTML5" height="50" /></a>
+        <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/dart-logo.svg" alt="Dart" height="50" /></a>
         <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter" height="50" /></a>
         <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="50" /></a>
         <a href="https://www.android.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android" height="50" /></a>
