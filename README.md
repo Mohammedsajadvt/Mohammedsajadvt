@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on enhancing Flutter applications using BLoC and Firebase for scalable and efficient development.<br>👯 I’m looking to collaborate on exciting Flutter projects, especially in mobile app development involving API integrations and state management.<br>🤝 I’m looking for help with exploring advanced Firebase features and backend development to build robust apps.<br>🌱 I’m currently learning more about Flutter and Kotlin android, Firebase advanced services, and exploring DevOps practices for app deployment.<br>💬 Ask me about Flutter development, BLoC state management, and creating modern UI/UX designs for mobile apps.<br>⚡ Fun fact I enjoy debugging tricky issues—it’s like solving a puzzle!
+🔭 I’m currently working on enhancing Flutter applications using BLoC and Firebase for scalable and efficient development.<br>👯 I’m looking to collaborate on exciting Flutter projects, especially in mobile app development involving API integrations and state management.<br>🤝 I’m looking for help with exploring advanced Firebase features and backend development to build robust apps.<br>🌱 I’m currently learning more about Flutter and Kotlin android and Java springboot, Firebase advanced services, and exploring DevOps practices for app deployment.<br>💬 Ask me about Flutter development, BLoC state management, and creating modern UI/UX designs for mobile apps.<br>⚡ Fun fact I enjoy debugging tricky issues—it’s like solving a puzzle!
 
 
 ## 🌐 Socials:
