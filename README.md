@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sajad VT</h1>
 <h3 align="center">A passionate full-stack developer from india</h3>
 
-- 🔭 I’m currently working Software Developer **Mern and Flutter**
+- 🔭 I’m currently working Software Developer 
 
 - 🌱 I’m currently learning **I’m currently learning Flutter and Mern**
 
